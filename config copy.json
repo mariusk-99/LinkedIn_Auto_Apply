@@ -1,0 +1,16 @@
+{
+    "email": "your@email.com",
+    "keywords": "Data Engineer",
+    "password": "",
+    "location": "London, United Kingdom",
+    "driver_path": "your_driver_path",
+
+    "Instruction 1" : "leave only the items in the list that will apply to your experience filter",
+
+    "filter_experience": ["entry", "intern", "associate", "midsenior", "director", "executive"],
+
+    "Instruction 2" : "choose one data filter from the filter_date_selection list",
+
+    "filter_date_selection": ["past 24 hours", "past week", "past month", "any time"],
+    "filter_date_posted": "past week"
+}
